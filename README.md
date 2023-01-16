@@ -1,9 +1,10 @@
 # 💫About Me :
-  -> Currently Pursuing B.Tech from Babu Banarasi Das Engineering College Lucknow.
+  -> B.Tech from Babu Banarasi Das Engineering College.
   -> Python Developer
-  -> Currently working in Machine Learning
+  -> QT/QML Developer
+  -> Currently working in QT to builds GUI's
   -> Selenium
-  -> J2EE , AWT
+  -> JAVA
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.richi._rich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-saxena-2aa6671b5) 
