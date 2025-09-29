@@ -1,11 +1,9 @@
 # 💫About Me :
-  -> Python Developer
-  -> QT/QML Developer
+  -> Software Testing
+  -> JAVA/Python
   -> Automation testing using pywinauto Python
   -> Manual Testing 
   -> Data Driven Testing
-  -> Currently working in QT to builds GUI's
-  -> Selenium
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.richi._rich) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-saxena-2aa6671b5) 
